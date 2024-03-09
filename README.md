@@ -19,9 +19,9 @@ My goal is to specialize in the field of software development.
 
 :outbox_tray: Goals for 2024: Finish my project, create a new project and get more visibility in the Community. 
 
- Life Goal ![](https://aleen42.github.io/badges/src/lamborghini.svg)
+ Life Goal ![]
 
-![](https://komarev.com/ghpvc/?username=your-github-MarceloVelasque&label=PROFILE+VIEWS)
+![](https://komarev.com/ghpvc/?username=your-github-EdineiMZ&label=PROFILE+VIEWS)
 
 ### Operating System for Work ###
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
