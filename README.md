@@ -2,7 +2,7 @@
 
 :alien: HELLO WORLD Welcome!
 
-:shipit: I'm Marcelo!
+:shipit: I'm Edinei!
  
  I :heart:COFFEE:coffee: and GAMES :video_game:
 
@@ -13,11 +13,11 @@
 :computer: I'm a Full-Stack Java Developer!
 My goal is to specialize in the field of software development.
 
-:house_with_garden: I’m from Brazil (Joaçaba SC).
+:house_with_garden: I’m from Brazil (São Miguel do Oeste - SC).
 
 :books: I’m currently learning everything.
 
-:outbox_tray: Goals for 2024: Finish my project and launch my web system, create a new project and get more visibility in the Java Community. 
+:outbox_tray: Goals for 2024: Finish my project, create a new project and get more visibility in the Community. 
 
  Life Goal ![](https://aleen42.github.io/badges/src/lamborghini.svg)
 
@@ -49,14 +49,13 @@ My goal is to specialize in the field of software development.
 ![](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
 
 [![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
-[![](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)](https://www.oracle.com/br/index.html)
 [![](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)](https://www.eclipse.org/downloads/)
 
 
 
 ### Do you want to connect with me? ###
-[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/marcelovelasque_ceo/)
-[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-velasque-23b9851b2/)]( https://www.linkedin.com/in/marcelo-velasque-23b9851b2/)
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edinei_zanol/)
+[![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-velasque-23b9851b2/)](https://www.linkedin.com/in/edinei-zanol-0718b3266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelllo.velasque14k@gmail.com)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=554999146427)
 
@@ -65,7 +64,6 @@ My goal is to specialize in the field of software development.
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=marcelllo.velasque14k&cover_image=true&theme=default&bar_color=d91717&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=marcelllo.velasque14k&redirect=true)
 
 - Thanks for visiting.
 
