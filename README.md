@@ -1,4 +1,4 @@
-![favorito](https://user-images.githubusercontent.com/109104085/183504845-adc13395-c61a-46e2-8db0-5197cc28002d.gif)
+![favorito]([https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif](https://private-user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDk5NDYxNzAsIm5iZiI6MTcwOTk0NTg3MCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1ODYtZDQ4ODkzYmQtMDc1Ny00ODFjLThkN2UtYmEzZTE2M2ZlYWU3LnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAzMDklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMzA5VDAwNTc1MFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzNTcyYTUxZDBlZjc2Nzk4ZWM1MzllMTllMGE5M2QxNGU3NzVkZjkxNWZmNGM2ODk0YjEzNGM0ODMzZjE1YWYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0._twaOXDJ8tXUUulceymEmE1YjU6A9kp5K6hm8eyHwkc))
 
 :alien: HELLO WORLD Welcome!
 
@@ -20,6 +20,8 @@ My goal is to specialize in the field of software development.
 Life Goal ![]
 
 ![](https://komarev.com/ghpvc/?username=your-github-EdineiMZ&label=PROFILE+VIEWS)
+
+![](https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif)
 
 ### Operating System for Work ###
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
