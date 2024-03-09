@@ -6,11 +6,9 @@
  
  I :heart:COFFEE:coffee: and GAMES :video_game:
 
-:mortar_board:graduated in technologist in management and entrepreneurship
+:mortar_board: Studying Computer Science (Unoesc)
 
-:mortar_board: studying Systems Analysis and Development(FIAP)
-
-:computer: I'm a New Full-Stack Developer!
+:computer: I'am a New Future Full-Stack Developer!
 My goal is to specialize in the field of software development.
 
 :house_with_garden: I’m from Brazil (São Miguel do Oeste - SC).
@@ -19,7 +17,7 @@ My goal is to specialize in the field of software development.
 
 :outbox_tray: Goals for 2024: Finish my project, create a new project and get more visibility in the Community. 
 
- Life Goal ![]
+Life Goal ![]
 
 ![](https://komarev.com/ghpvc/?username=your-github-EdineiMZ&label=PROFILE+VIEWS)
 
