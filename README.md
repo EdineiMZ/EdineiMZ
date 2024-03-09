@@ -59,7 +59,7 @@ My goal is to specialize in the field of software development.
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edinei.zanol@gmail.com)
 [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549991943662)
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdineiMZque&theme=radical&show_icons=true)
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdineiMZ&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdineiMZ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
