@@ -40,8 +40,6 @@ Life Goal !
 
 ### Learning ###
 
-![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
-
 ![](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 ![](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)
 ![](https://img.shields.io/badge/Hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white)
@@ -101,3 +99,5 @@ Life Goal !
 - Thanks for visiting.
 
 - Enjoy it!! o/
+
+![](https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif)
