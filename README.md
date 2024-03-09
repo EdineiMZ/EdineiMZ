@@ -56,11 +56,11 @@ My goal is to specialize in the field of software development.
 ### Do you want to connect with me? ###
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edinei_zanol/)
 [![](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcelo-velasque-23b9851b2/)](https://www.linkedin.com/in/edinei-zanol-0718b3266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcelllo.velasque14k@gmail.com)
-[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=554999146427)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edinei.zanol@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5549991943662)
 
-![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarceloVelasque&theme=radical&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarceloVelasque&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Marcelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdineiMZque&theme=radical&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdineiMZ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
