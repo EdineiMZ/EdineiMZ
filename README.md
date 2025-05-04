@@ -15,7 +15,7 @@ My goal is to specialize in the field of software development.
 
 :books: I’m currently learning everything.
 
-:outbox_tray: Goals for 2024: Finish my project, create a new project and get more visibility in the Community. 
+:outbox_tray: Goals for 2025: Finish my project, create a new project and get more visibility in the Community. 
 
 Life Goal !
 
