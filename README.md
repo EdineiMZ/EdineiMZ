@@ -94,8 +94,8 @@ Life Goal !
 ![Edinei's GitHub stats](https://github-readme-stats.vercel.app/api?username=EdineiMZ&theme=radical&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdineiMZ&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p dir="auto"><a target="_blank" rel="noopener noreferrer" href="https://github.com/dantonbertuol/dantonbertuol/blob/output/github-contribution-grid-snake.svg"><img src="https://github.com/dantonbertuol/dantonbertuol/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" style="max-width: 100%;"></a></p>
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=EdineiMZ&custom_title=Stats&show_icons=true&include_all_commits=true&theme=aura_dark)](https://github-stats-extended.vercel.app/api?username=EdineiMZ&custom_title=Stats&show_icons=true&include_all_commits=true&theme=aura_dark)
 
 - Thanks for visiting.
 
